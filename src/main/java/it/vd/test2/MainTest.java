@@ -10,6 +10,11 @@ public class MainTest {
 		//inserita la stampa a video
 		System.out.println("Hello world!");
 		
+		//prima commit
+		
+		//seconda commit
+		
+		//terza commit
 	}
 
 }
